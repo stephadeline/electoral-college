@@ -1,0 +1,27 @@
+// Variable Overrides
+
+// Bootstrap Sass Imports
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+p {
+    font-size: 1rem;
+}
+
+a {
+    color: black;
+}
+
+p, h1, h4 {font-family: 'Playfair Display', serif;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.nav-item{
+    color: darkslategray;
+}
+
+.card {
+    margin-bottom: 20px;
+}
